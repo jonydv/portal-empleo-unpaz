@@ -1,0 +1,28 @@
+{
+  "name": "portal-empleo-unpaz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonydv/portal-empleo-unpaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonydv/portal-empleo-unpaz/issues"
+  },
+  "homepage": "https://github.com/jonydv/portal-empleo-unpaz#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
